@@ -1,0 +1,8 @@
+package = User interface
+name = jQuery filterable
+description = Provides quick client-side search functionality for all tables with the "filterable" class.
+
+core = 7.x
+version = 7.x-1.0
+
+scripts[] = jquery-filterable.js
